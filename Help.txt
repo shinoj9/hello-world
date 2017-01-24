@@ -1,1 +1,6 @@
 https://guides.github.com/activities/hello-world/
+ESSENTIAL LINKS
+http://bernardodamele.blogspot.in/
+http://bernardodamele.blogspot.in/2011/11/top-125-computer-security-tools.html
+https://www.pentestpartners.com/blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/#modifyingicafiles
+http://bernardodamele.blogspot.in/
